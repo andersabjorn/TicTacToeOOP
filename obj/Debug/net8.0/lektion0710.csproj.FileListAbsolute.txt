@@ -1,0 +1,14 @@
+C:\Users\antep\source\repos\lektion0710\bin\Debug\net8.0\lektion0710.exe
+C:\Users\antep\source\repos\lektion0710\bin\Debug\net8.0\lektion0710.deps.json
+C:\Users\antep\source\repos\lektion0710\bin\Debug\net8.0\lektion0710.runtimeconfig.json
+C:\Users\antep\source\repos\lektion0710\bin\Debug\net8.0\lektion0710.dll
+C:\Users\antep\source\repos\lektion0710\bin\Debug\net8.0\lektion0710.pdb
+C:\Users\antep\source\repos\lektion0710\obj\Debug\net8.0\lektion0710.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antep\source\repos\lektion0710\obj\Debug\net8.0\lektion0710.AssemblyInfoInputs.cache
+C:\Users\antep\source\repos\lektion0710\obj\Debug\net8.0\lektion0710.AssemblyInfo.cs
+C:\Users\antep\source\repos\lektion0710\obj\Debug\net8.0\lektion0710.csproj.CoreCompileInputs.cache
+C:\Users\antep\source\repos\lektion0710\obj\Debug\net8.0\lektion0710.dll
+C:\Users\antep\source\repos\lektion0710\obj\Debug\net8.0\refint\lektion0710.dll
+C:\Users\antep\source\repos\lektion0710\obj\Debug\net8.0\lektion0710.pdb
+C:\Users\antep\source\repos\lektion0710\obj\Debug\net8.0\lektion0710.genruntimeconfig.cache
+C:\Users\antep\source\repos\lektion0710\obj\Debug\net8.0\ref\lektion0710.dll
